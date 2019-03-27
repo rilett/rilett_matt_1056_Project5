@@ -1,0 +1,197 @@
+@media screen and (min-width: 641px) {
+ #container {
+  width: 100%;
+  max-width: 641px;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+
+body {
+	font-family: Arial;
+	color: white;
+}
+
+
+.nav {
+	position: relative;
+	left: 400px;
+	margin-top: 70px;
+  height: 50px;
+  width: 300px;
+  background-color: grey;
+  flex: 1 1 auto; 
+}
+
+.logo {
+	position: relative;
+	bottom: 100px;
+	right: 100px;
+	margin-top: 70px;
+  height: 125px;
+  width: 125px;
+  background-color: grey;
+  flex: 1 1 auto; 
+}
+
+.sideContent {
+	position: relative;
+	bottom: 80px;
+	right: 100px;
+  height: 500px;
+  width: 100px;
+  background-color: grey;
+  flex: 1 1 auto; 
+}
+
+.mainContent {
+  position: relative;
+  bottom: 595px;
+  left: 75px;
+  height: 500px;
+  width: 500px;
+  background-color: grey;
+  flex: 1 1 auto; 
+}
+
+.item1 {
+  position: relative;
+  bottom: 960px; 
+  left: 125px;
+  height: 150px;
+  width: 90px;
+  background-color: black;
+  flex-direction: row;
+  flex: 1 1 auto; 
+}
+
+.item2 {
+  position: relative;
+  bottom: 1126px; 
+  left: 265px;
+  height: 150px;
+  width: 90px;
+  background-color: black;
+  flex-direction: row;
+  flex: 1 1 auto; 
+}
+
+.item3 {
+  position: relative;
+  bottom: 1292px; 
+  left: 410px;
+  height: 150px;
+  width: 90px;
+  background-color: black;
+  flex-direction: row;
+  flex: 1 1 auto; 
+}
+
+.footer {
+  position: relative;
+  left: 400px;
+  bottom: 1070px;
+  height: 50px;
+  width: 300px;
+  background-color: grey;
+  flex: 1 1 auto; 
+}
+
+p {
+  text-align: center;
+}
+
+
+@media screen and (max-width: 1140px) {
+  .container {
+      width: 100%;
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+}
+
+#container {
+  width: 100%;
+  max-width: 641px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav {
+  position: relative;
+  left: 400px;
+  margin-top: 70px;
+  height: 50px;
+  width: 300px;
+  background-color: grey;
+}
+
+.logo {
+  position: relative;
+  bottom: 100px;
+  right: 100px;
+  margin-top: 70px;
+  height: 125px;
+  width: 125px;
+  background-color: grey;
+}
+
+.sideContent {
+  position: relative;
+  bottom: 80px;
+  right: 100px;
+  height: 500px;
+  width: 100px;
+  background-color: grey;
+}
+
+.mainContent {
+  position: relative;
+  bottom: 595px;
+  left: 75px;
+  height: 500px;
+  width: 500px;
+  background-color: grey;
+}
+
+.item1 {
+  position: relative;
+  bottom: 960px; 
+  left: 125px;
+  height: 150px;
+  width: 90px;
+  background-color: black;
+}
+
+.item2 {
+  position: relative;
+  bottom: 1126px; 
+  left: 265px;
+  height: 150px;
+  width: 90px;
+  background-color: black;
+}
+
+.item3 {
+  position: relative;
+  bottom: 1292px; 
+  left: 410px;
+  height: 150px;
+  width: 90px;
+  background-color: black;
+}
+
+.footer {
+  position: relative;
+  left: 400px;
+  bottom: 1070px;
+  height: 50px;
+  width: 300px;
+  background-color: grey;
+}
+
+p {
+  text-align: center;
+}
+
